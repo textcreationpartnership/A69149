@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods promise to his plantation· as it was delivered in a sermon, by Iohn Cotton, B.D. and preacher of Gods word in Boston.</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69149</idno>
+            <idno type="STC">STC 5854</idno>
+            <idno type="STC">ESTC S105087</idno>
+            <idno type="EEBO-CITATION">99840817</idno>
+            <idno type="PROQUEST">99840817</idno>
+            <idno type="VID">5352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1627:25, 1684:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods promise to his plantation· as it was delivered in a sermon, by Iohn Cotton, B.D. and preacher of Gods word in Boston.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+               </titleStmt>
+               <extent>[8], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Iones of Iohn Bellamy, and are to be solde at the three Golden Lyons by the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1630.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preached to John Winthrop's company at Southampton just before they embarked in 1630.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>One of three imprint variants of this edition.</note>
+                  <note>Reproductions of the originals in Cambridge University Library and Bodleian Library.</note>
+                  <note>Appears at reel 1627 (Cambridge University Library copy) and at reel 1684 (Bodleian Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5352:1"/>
+            <pb facs="tcp:5352:1" rendition="simple:additions"/>
+            <p>GODS PROMISE TO HIS PLANTATION.</p>
+            <q>
+               <bibl>
+                  <hi>2 Sam. 7.10.</hi>
+               </bibl> Moreover J will appoint a place for my people <hi>Iſrael,</hi> and I will plant them, that they may dwell in a place of their owne, and move no more.</q>
+            <p>As it was delivered in a Sermon, By IOHN COTTON, B. D. and Preacher of Gods word in <hi>Boston.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PSALME 22.27.30.31.</hi>
+               </bibl>
+               <p>All the ends of the world ſhall remember and turne unto the Lord, and all the kindreds of the Nations ſhall worſhip before thee.</p>
+               <p>A ſeede ſhall ſerve him, it ſhall be accounted to the Lord for a generation.</p>
+               <p>They ſhall come, and ſhall declare his righteouſneſſe unto a people that ſhall be borne, that he hath done this.</p>
+            </q>
+            <p>LONDON, Printed by <hi>William Jones</hi> for <hi>John Bellamy,</hi> and are to be ſolde at the three <hi>Golden Lyons</hi> by the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:5352:2" rendition="simple:additions"/>
+            <pb facs="tcp:5352:2"/>
+            <head>To the Chriſtian Reader:</head>
+            <p>
+               <seg rend="decorInit">A</seg>LTHOVGH no good Chriſtian, or indeede inge<g ref="char:EOLhyphen"/>nuous man, can doe any thing leſſe, than approove of ſuch endeavours, as aime at the glory of God, and a Common good, eſpe<g ref="char:EOLhyphen"/>cially when they are mannaged by a cleare war<g ref="char:EOLhyphen"/>rant from Gods word. Yet for aymes and ends that men put to their actions being hidden in their hearts, there is no way to declare them, but by an honeſt profeſſion of them, which is ſuffici<g ref="char:EOLhyphen"/>ent where wee are entertained but with that common charity one man is bound to yeeld ano<g ref="char:EOLhyphen"/>ther; But for the grounds and rule an action is wrought by, and the praiſe of it in that reſpect, there is another iudgement than that of charity to guide us by, namely, by proving it by the touch<g ref="char:EOLhyphen"/>ſtone of Gods word.</p>
+            <pb facs="tcp:5352:3"/>
+            <p>Now becauſe many may either not know, or doe not conſider upon how full a ground and warrant out of the word of God that underta<g ref="char:EOLhyphen"/>king (which was the occaſion of this Sermon) hath hitherto proceeded, J thought good (Cour<g ref="char:EOLhyphen"/>teous Reader) leave being with ſome diffi<g ref="char:EOLhyphen"/>cultie obtained of the Reverend Authour) to preſent unto thy view and conſideration, that which may in part give thee ſatisfaction in this particular.</p>
+            <p>Ere long (if God will) thou ſhalt ſee a lar<g ref="char:EOLhyphen"/>ger declaration of the firſt riſe and ends of this enterpriſe, and ſo cleare and full a iuſtification of this deſigne, both in reſpect of that warrant it hath from Gods word, and alſo in reſpect of any other ground and circumſtance of weight, that is conſiderable in the warrant of ſuch a worke, as (J hope) there will eaſily be removed any ſcruple of moment, which hitherto hath beene moved about it.</p>
+            <p>If thou haſt any doubts yet unreſolved, ra<g ref="char:EOLhyphen"/>ther be intreated to underſtand from us, what may be the anſwer of them, than to diſcourage any man by them: ſo ſhalt thou be a helper and a friend, whereas otherwiſe (it may be againſt thy will) thou ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt be an enemie to a worke
+<pb facs="tcp:5352:3"/>(for ought thou yet knoweſt) God is the Au<g ref="char:EOLhyphen"/>thour of.</p>
+            <p>Jt is hoped; there is none but will finde cauſe to approve of the worke, and of them that ingage themſelves in it; But eſpecially they who any way, at leaſt by ſilence (a ſeeming applauſe) ap<g ref="char:EOLhyphen"/>proved the Plantations of <hi>Virginia, St. Chri<g ref="char:EOLhyphen"/>ſtophers, Bermudas,</hi> this having ends in<g ref="char:EOLhyphen"/>feriour to none of them, and men (not to com<g ref="char:EOLhyphen"/>pare but to give due honour to all employed in ſuch noble enterpriſes) promiſing as much by their uſefulneſſe, induſtrie, love to their Coun<g ref="char:EOLhyphen"/>trie, piety, and other qualifications as thoſe did.</p>
+            <p>It is enough they adventure, that hazard their perſons, families and eſtates, for that worke, which it may appeare to thee ere long thou art bound as well as they to further.</p>
+            <p>Now it were iniurious, if not impious, not onely to denie the right and benefit of thy pray<g ref="char:EOLhyphen"/>ers to ſuch, but alſo to loade them with cauſe<g ref="char:EOLhyphen"/>leſſe aſperſions (though but in thy thoughts) for that, for which thou haſt great cauſe to praiſe God for the<g ref="char:cmbAbbrStroke">̄</g>, who hath ſtirred up their ſpirits to that which hath beene a maine meane of peo<g ref="char:EOLhyphen"/>pling the world, and is likely to be of propaga<g ref="char:EOLhyphen"/>ting the Goſpell. For the furtherance of which
+<pb facs="tcp:5352:4"/>worke in the hands of thoſe that ſincerely intend it, let as fervent prayers paſſe from thee to the throne of grace for them, as J am confident, (thy occaſions being made knowne unto them) would be put up from them in thy behalfe.</p>
+            <closer>
+               <signed>Thine I. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:5352:4"/>
+            <epigraph>
+               <bibl>
+                  <hi>2 Sam. 7.10.</hi>
+               </bibl>
+               <q>Moreover J will appoint a place for my people <hi>Iſrael,</hi> and I will plant them, that they may dwell in a place of their owne, and move no more.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the beginning of this chap<g ref="char:EOLhyphen"/>ter, we reade of <hi>Davids</hi> pur<g ref="char:EOLhyphen"/>poſe to build God an houſe, who thereupon conſulted with <hi>Nathan</hi> about it, one Prophet ſtanding in neede of anothers help in ſuch waigh<g ref="char:EOLhyphen"/>tie matters. <hi>Nathan</hi> incourageth the King unto this worke, verſe 3. God the ſame night meetes <hi>Nathan</hi> and tells him a contrary purpoſe of his: Wherein God refuſeth <hi>Davids</hi> offer, with ſome kind of earneſt and vehement diſlike, <hi>verſe</hi> 4.5. Secondly, he refuſeth the reaſon of <hi>Davids</hi> offer, from his long ſilence. For foure hundred yeares together he ſpake of no ſuch thing, unto any of the Tribes of <hi>Iſrael,</hi> ſaying, <hi>Why build you not me an houſe?</hi> in 6.7. verſes.</p>
+            <p>Now leſt <hi>David</hi> ſhould be diſcouraged with
+<pb n="2" facs="tcp:5352:5"/>this anſwer, the Lord bids <hi>Nathan</hi> to ſhut up his ſpeech with words of encouragement, and ſo he remoues his diſcouragement two wayes.</p>
+            <p>Firſt, by recounting his former favours diſpen<g ref="char:EOLhyphen"/>ſed unto <hi>David.</hi> Secondly, by promiſing the continuance of the like or greater: and the ra<g ref="char:EOLhyphen"/>ther, becauſe of this purpoſe of his. And fiue bleſſings God promiſeth unto <hi>David,</hi> and his, for his ſake.</p>
+            <p>The firſt is in the 10. verſe: <hi>I will appoynt a place for my people Iſrael.</hi>
+            </p>
+            <p>Secondly, ſeeing it was in his heart to build him an houſe, God would therefore, <hi>build him an houſe renowned for ever.</hi> verſe 11.</p>
+            <p>Thirdly, that he would accept an of houſe from <hi>Salomon,</hi> verſe 12.</p>
+            <p>Fourthly, hee will be a Father to his ſonne, verſ. 14.15.</p>
+            <p>Fifthly, that he will <hi>establiſh the Throne of his houſe for ever.</hi>
+            </p>
+            <p>In this 10. verſe is a double bleſſing promiſed:</p>
+            <p>Firſt, the deſignment of a place for his peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Secondly, a plantation of them in that place, from whence is promiſed a threefold bleſſing.</p>
+            <p>Firſt, they ſhall dwell there like Free-holders in a place of their owne.</p>
+            <p>Secondly, hee promiſeth them firme and du<g ref="char:EOLhyphen"/>rable poſſeſſion, they ſhall move no more.</p>
+            <p>Thirdly, they ſhall have peaceable and quiet reſting there, The ſonnes of wickedneſſe ſhall afflict them no more: which is amplified by their former troubles, as before time.</p>
+            <pb n="3" facs="tcp:5352:5"/>
+            <p>From the appointment of a place for them, which is the firſt bleſſing, you may obſerve this note: <q>The placeing of a people in this or that Country is from the appointment of the Lord.</q>
+            </p>
+            <p>This is evident in the Text, and the Apoſtle ſpeakes of it as grounded in nature, <hi>Acts</hi> 17.26. <hi>God hath determined the times before appointed, and the bounds of our habitation. Deut.</hi> 2 <hi>chap.</hi> 5.9. God would not have the <hi>Iſraelites</hi> meddle with the <hi>E<g ref="char:EOLhyphen"/>domites,</hi> or the <hi>Moabites,</hi> becauſe hee had given them their land for a poſſeſſion. God aſſigned out ſuch a land for ſuch a poſterity, and for ſuch a time.</p>
+            <p>Wherein doth this worke of God ſtand in ap<g ref="char:EOLhyphen"/>pointing a place for a people? <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label>
+            </p>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> when God eſpies or diſcovers a land for a people, as in <hi>Ezek.</hi> 20.6. he brought them into a land that he had eſpied for them: And that is, when either he gives them to diſcover it them<g ref="char:EOLhyphen"/>ſelves, or heare of it diſcovered by others, and fitting them.</p>
+            <p>Secondly, after he hath eſpied it, when he car<g ref="char:EOLhyphen"/>rieth them along to it, ſo that they plainly ſee a providence of God leading them from one Country to another: As in <hi>Exod.</hi> 19.4. <hi>You have ſeene how I have borne you as on Eagles wings, and brought you unto my ſelfe.</hi> So that though they met with many difficulties, yet hee carried them high above them all, like an eagle, flying over ſeas and rockes, and all hinderances.</p>
+            <p>Thirdly, when he makes roome for a people
+<pb n="4" facs="tcp:5352:6"/>to dwell there, as in <hi>Pſal.</hi> 80.9. <hi>Thou preparedst roome for them.</hi> When <hi>Iſaac</hi> ſojourned among the <hi>Philestines,</hi> he digged one well, and the <hi>Philiſtines</hi> ſtroue for it, and he called it <hi>Eſek:</hi> and he digged another well, and for that they ſtrove alſo, there<g ref="char:EOLhyphen"/>fore he called it <hi>Sitnah:</hi> and he removed thence, and digged an other well, and for that they ſtrove not, and he called it <hi>Rehoboth,</hi> and ſaid, <hi>For now the Lord hath made roome for vs, and we ſhall be fruitfull in the Land.</hi> Now no <hi>Eſek,</hi> no <hi>Sitnah,</hi> no quarrell or contention, but now he ſits downe in <hi>Rehoboth,</hi> in a peaceable roome.</p>
+            <p>Now God makes room for a people 3 wayes:</p>
+            <p>Firſt, when he caſts out the enemies of a peo<g ref="char:EOLhyphen"/>ple before them by lawfull warre with the inha<g ref="char:EOLhyphen"/>bitants, which God calls them unto: as in <hi>Pſ.</hi> 44.2 <hi>Thou didſt drive out the Heathe<g ref="char:cmbAbbrStroke">̄</g> before them.</hi> But this courſe of warring againſt others, &amp; driving them out without provocation, depends upon ſpeciall Commiſſion from God, or elſe it is not imitable.</p>
+            <p>Secondly, when hee gives a forreigne people favour in the eyes of any native people to come and ſit downe with them either by way of pur<g ref="char:EOLhyphen"/>chaſe, as <hi>Abraham</hi> did obtaine the field of <hi>Mach<g ref="char:EOLhyphen"/>pelah;</hi> or elſe when they give it in courteſie, as <hi>Pha<g ref="char:EOLhyphen"/>raol.</hi> did the land of <hi>Goſhen</hi> unto the ſons of <hi>Iacob.</hi>
+            </p>
+            <p>Thirdly, when hee makes a Country though not altogether void of Inhabitants, yet void in that place where they reſide. Where there is a vacant place, there is liberty for the ſonnes of <hi>A<g ref="char:EOLhyphen"/>dam</hi> or <hi>Noah</hi> to come and inhabite, though they neither buy it, nor aske their leaves. <hi>Abraham</hi>
+               <pb n="5" facs="tcp:5352:6"/>and <hi>Iſaac,</hi> when they
+<note n="*" place="margin">This ſoiour<g ref="char:EOLhyphen"/>ning was a conſtantreſi<g ref="char:EOLhyphen"/>dence there, as in a poſſeſſion of their owne; although it bee called ſoiour<g ref="char:EOLhyphen"/>ning or dwel<g ref="char:EOLhyphen"/>ling as ſtran<g ref="char:EOLhyphen"/>gers, becauſe they neither had the ſove<g ref="char:EOLhyphen"/>raigne govern<g ref="char:EOLhyphen"/>ment of the whole Coun<g ref="char:EOLhyphen"/>trey in their owne hand, nor yet did in<g ref="char:EOLhyphen"/>corporate them ſelves into the Common<g ref="char:EOLhyphen"/>vvealth of the Natives, to ſubmit them<g ref="char:EOLhyphen"/>ſelves unto their govern<g ref="char:EOLhyphen"/>ment.</note> ſojourned amongſt the <hi>Philiſtims,</hi> they did not buy that land to feede their cattle, becauſe they ſaid There is roome e<g ref="char:EOLhyphen"/>nough. And ſo did <hi>Iacoh</hi> pitch his Tent by <hi>Se<g ref="char:EOLhyphen"/>chem, Gen.</hi> 34.21. There was <hi>roome enough,</hi> as <hi>Ha<g ref="char:EOLhyphen"/>mor</hi> ſaid, <hi>Let them ſit downe amongst us.</hi> And in this caſe if the people who were former Inhabi<g ref="char:EOLhyphen"/>tants did diſturbe them in their poſſeſſions, they complained to the King, as of wrong done unto them: As <hi>Abraham</hi> did becauſe they tooke away his well, in <hi>Gen.</hi> 21.25. For his right whereto he pleaded not his immediate calling from God, (for that would have ſeemed frivolous amongſt the Heathen) but his owne induſtry and culture in digging the well, verſe 30. Nor doth the King reject his plea, with what had he to doe to digge wells in their ſoyle? but admitteth it as a Principle in Nature, That in a vacant ſoyle, hee that taketh poſſeſſion of it, and beſtoweth culture and husbandry upon it, his Right it is. And the ground of this is from the grand Charter gi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to <hi>Adam</hi> and his poſterity in Paradiſe, <hi>Gen.</hi> 1.28. <hi>Multiply, and repleniſh the earth, and ſubdue it.</hi> If therefore any ſonne of <hi>Adam</hi> come and finde a place empty, he hath liberty to come, and fill, and ſubdue the earth there. This Charter was renewed to <hi>Noah, Gen.</hi> 9.1. <hi>Fulfill the earth and multiply:</hi> So that it is free from that co<g ref="char:cmbAbbrStroke">̄</g>mon Grant, for any to take poſſeſſion of vacant Countries. Indeed no Nation is to drive out another with<g ref="char:EOLhyphen"/>out ſpeciall Commiſſion from heaven, ſuch as the <hi>Iſraelites</hi> had, unleſſe the Natives do unjuſtly
+<pb n="6" facs="tcp:5352:7"/>wrong them, and will not recompence the wrongs done in peaceable ſort, &amp; then they may right themſelves by lawfull war, and ſubdue the Countrey unto themſelves.</p>
+            <p>This placeing of people in this or that Coun<g ref="char:EOLhyphen"/>try, is from Gods ſoveraignty over all the earth, and the inhabitants thereof: as in <hi>Pſal.</hi> 24.1. <hi>The earth is the Lords, and the fulneſſe thereof.</hi> And in <hi>Ier.</hi> 10.7. God is there called, <hi>The King of Nati<g ref="char:EOLhyphen"/>ons:</hi> and in <hi>Deut.</hi> 10.14. Therefore it is meete he ſhould provide a place for all Nations to in<g ref="char:EOLhyphen"/>habite, and have all the earth repleniſhed. Onely in the Text here is meant ſome more ſpeciall ap<g ref="char:EOLhyphen"/>pointment, becauſe God tells them it by his owne mouth; he doth not ſo with other people, he doth not tell the children of <hi>Seir,</hi> that hee hath appointed a place for them: that is, He gives them the land by promiſe; others take the land by his providence, but Gods people take the land by promiſe: And therefore the land of <hi>Canaan</hi> is called a land of promiſe. Which they diſcerne, firſt, by diſcerning themſelves to be in Chriſt, in whom all the promiſes are yea, and amen.</p>
+            <p>Secondly, by finding his holy preſence with them, to wit, when hee plants them in the holy Mountaine of his Inheritance: <hi>Exodus</hi> 15.17. And that is when he giveth them the liberty and purity of his Ordinances. It is a land of promiſe, where they have proviſion for ſoule as well as for body. <hi>Ruth</hi> dwelt well for outward reſpects while ſhee dwelt in <hi>Moab,</hi> but when ſhee com<g ref="char:EOLhyphen"/>meth to dwell in <hi>Iſrael,</hi> ſhee is ſaid to come un<g ref="char:EOLhyphen"/>der
+<pb n="7" facs="tcp:5352:7"/>the wings of God: <hi>Ruth</hi> 2.12. When God wrappes us in with his Ordinances, and warmes us with the life and power of them as with wings, there is a land of promiſe.</p>
+            <p>This may teach us all where wee doe now dwell, or where after wee may dwell, be ſure you looke at every place appointed to you, from the hand of God: wee may not ruſh into any place, and never ſay to God, By your leave; but wee muſt diſcerne how God appoints us this place. There is poore comfort in ſitting downe in any place, that you cannot ſay, This place is appointed me of God. Canſt thou ſay that God ſpied out this place for thee, and there hath ſetled thee above all hindrances? didſt thou finde that God made roome for thee either by lawfull de<g ref="char:EOLhyphen"/>ſcent, or purchaſe, or gift, or other warrantable right? Why then this is the place God hath appointed thee; here hee hath made roome for thee, he hath placed thee in <hi>Rehoboth,</hi> in a peace<g ref="char:EOLhyphen"/>able place: This we muſt diſcerne, or els wee are but intruders upon God. And when wee doe withall diſcerne, that God giveth us theſe out<g ref="char:EOLhyphen"/>ward bleſſings from his love in Chriſt, and ma<g ref="char:EOLhyphen"/>keth comfortable proviſion as well for our ſoule as for our bodies, by the meanes of grace, then doe we enjoy our preſent poſſeſſion as well by gracious promiſe, as by the common, and juſt, and bountifull providence of the Lord. Or if a man doe remove, he muſt ſee that God hath e<g ref="char:EOLhyphen"/>ſpied out ſuch a Country for him.</p>
+            <p>Secondly, though there be many difficulties,
+<pb n="8" facs="tcp:5352:8"/>yet he hath given us hearts to overlooke them all, as if we were carried upon eagles wings.</p>
+            <p>And thirdly, ſee God making roome for us by ſome lawfull meanes.</p>
+            <p>But how ſhall I know whether God hath ap<g ref="char:EOLhyphen"/>pointed me ſuch a place, <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> if I be well where I am, what may warrant my removeall?</p>
+            <p>There be foure or five good things, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> for pro<g ref="char:EOLhyphen"/>curement of any of which I may remove. Se<g ref="char:EOLhyphen"/>condly, there be ſome evill things, for avoiding of any of which wee may tranſplant our ſelves. Thirdly, if withall we finde ſome ſpeciall provi<g ref="char:EOLhyphen"/>dence of God concurring in either of both con<g ref="char:EOLhyphen"/>cerning our ſelves, and applying general grounds of removall to our perſonall eſtate.</p>
+            <p>Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> wee may remove for the gaining of knowledge. Our Saviour commends it in the Queene of the South, that ſhe came from the ut<g ref="char:EOLhyphen"/>moſt parts of the earth to heare the wiſdome of <hi>Salomon: Matth.</hi> 12.42. And ſurely with him ſhe might have continued for the ſame end, if her perſonall calling had not recalled her home.</p>
+            <p>Secondly, ſome remove and travaile for mer<g ref="char:EOLhyphen"/>chandize and gaine-ſake; <hi>Daily bread may be ſought from farre, Prov.</hi> 31.14. Yea our Saviour appro<g ref="char:EOLhyphen"/>veth travaile for Merchants, <hi>Matth.</hi> 13.45, 46. when hee compareth a Chriſtian to a Merchant<g ref="char:EOLhyphen"/>man ſeeking pearles: For hee never fetcheth a compariſon from any unlawfull thing to illu<g ref="char:EOLhyphen"/>ſtrate a thing lawfull. The compariſon from the unjuſt Steward, and from the Theefe in the night, is not taken from the injuſtice of the one, or the
+<pb n="9" facs="tcp:5352:8"/>theft of the other; but from the wiſedome of the one, and the ſodainneſſe of the other; which in themſelves are not unlawfull.</p>
+            <p>Thirdly, to plant a Colony, that is, a compa<g ref="char:EOLhyphen"/>ny that agree together to remove out of their owne Country, and ſettle a Citty or Common<g ref="char:EOLhyphen"/>wealth elſewhere. Of ſuch a Colony wee reade in <hi>Acts</hi> 16.12. which God bleſſed and proſpe<g ref="char:EOLhyphen"/>red exceedingly, and made it a glorious Church. Nature teacheth Bees to doe ſo, when as the hive is too full, they ſeeke abroad for new dwellings: So when the hive of the Common-wealth is ſo full, that Tradeſmen cannot live one by another, but eate up one another, in this caſe it is lawfull to remove.</p>
+            <p>Fourthly, God alloweth a man to remove, when he may employ his Talents and gifts bet<g ref="char:EOLhyphen"/>ter elſewhere, eſpecially when where he is, he is not bound by any ſpeciall engagement. Thus God ſent <hi>Ioſeph</hi> before to preſerve the Church: <hi>Ioſephs</hi> wiſedome and ſpirit was not fit for a ſhep<g ref="char:EOLhyphen"/>heard, but for a Counſellour of State; and there<g ref="char:EOLhyphen"/>fore God ſent him into <hi>Egypt. To whom much it given, of him God will require the more: Luke</hi> 12.48.</p>
+            <p>Fifthly, for the liberty of the Ordinances. 2 <hi>Chron.</hi> 11.13, 14, 15. When <hi>Ieroboam</hi> made a deſertion from <hi>Iudah,</hi> and ſet up golden Calves to worſhip, all that were well affected, both Prieſts and people, ſolde their poſſeſſions, and came to <hi>Ieruſalem</hi> for the Ordinances ſake. This caſe was of ſeaſonable uſe to our fathers in the
+<pb n="10" facs="tcp:5352:9"/>dayes of Queene <hi>Mary;</hi> who removed to <hi>France</hi> and <hi>Germany</hi> in the beginning of her Reign, upon Proclamation of alteration of religion, before a<g ref="char:EOLhyphen"/>ny perſecution began.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> there be evills to be avoided that may warrant removeall. Firſt, when ſome grie<g ref="char:EOLhyphen"/>vous ſinnes overſpread a Country that threaten deſolation. <hi>Mic.</hi> 2.6. to 11 verſe: When the people ſay to them that prophecie, <hi>Prophecy not;</hi> then verſe 10. <hi>Ariſe then, this is not your rest.</hi> Which words though they be a threatning, not a commandement; yet as in a threatning a wiſe man foreſeeth the plague, ſo in the threatning he ſeeth a commandement, to hide himſelfe from it. This caſe might have beene of ſeaſonable uſe unto them of the <hi>Palatinate,</hi> when they ſaw their Orthodoxe Miniſters baniſhed, although them<g ref="char:EOLhyphen"/>ſelves might for a while enjoy libertie of conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p>Secondly, if men be overburdened with debts and miſeries, as <hi>Davids</hi> followers were; they may then retire out of the way (as they retired to <hi>David</hi> for ſafety) not to defraud their Creditors, (for <hi>God is an avenger of ſuch things,</hi> 1 <hi>Theſſ:</hi> 4.6.) but to gaine further opportunity to diſcharge their debts, and to ſatiſfie their Creditors. 1 <hi>Sam.</hi> 22.1, 2.</p>
+            <p>Thirdly, in caſe of perſecution, ſo did the A<g ref="char:EOLhyphen"/>poſtles in <hi>Acts</hi> 13.46, 47.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> as theſe generall caſes, where any of them doe fall out, doe warrant removeall in ge<g ref="char:EOLhyphen"/>nerall: ſo there be ſome ſpeciall providences or
+<pb n="11" facs="tcp:5352:9"/>particular caſes which may give warrant unto ſuch or ſuch a perſon to tranſplant himſelfe, and which apply the former generall grounds to par<g ref="char:EOLhyphen"/>ticular perſons.</p>
+            <p>Firſt, if ſoveraigne Authority command and encourage ſuch Plantations by giving way to ſubjects to tranſplant themſelves, and ſet up a new Commonwealth. This is a lawfull and ex<g ref="char:EOLhyphen"/>pedient caſe for ſuch particular perſons as be de<g ref="char:EOLhyphen"/>ſigned and ſent: <hi>Matth.</hi> 8.9. and for ſuch as they, who are ſent, have power to command.</p>
+            <p>Secondly, when ſome ſpeciall providence of God leades a man unto ſuch a courſe. This may alſo ſingle out particulars. <hi>Pſal.</hi> 32.8. <hi>I will in<g ref="char:EOLhyphen"/>ſtruct, and guide thee with mine eye.</hi> As the childe knowes the pleaſure of his father in his eye, ſo doth the childe of God ſee Gods pleaſure in the eye of his heavenly Fathers providence. And this is done three wayes.</p>
+            <p>Firſt, if God give a man an inclination to this or that courſe, for that is the ſpirit of man; &amp; <hi>God is the Father of ſpirits: Heb.</hi> 12.9. <hi>Rom.</hi> 1.12. 1 <hi>Cor.</hi> 16.12. <hi>Paul</hi> diſcerned his calling to goe to <hi>Rome,</hi> by his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his ready inclination to that voyage; and <hi>Apollos</hi> his loathneſſe to goe to <hi>Co<g ref="char:EOLhyphen"/>rinth, Paul</hi> accepted as a juſt reaſon of his refuſall of a calling to goe thither. And this holdeth, when in a mans inclination to travaile, his heart is ſet on no by-reſpects, as to ſee faſhions, to de<g ref="char:EOLhyphen"/>ceive his Creditours, to fight Duels, or to live idly, theſe are vaine inclinations; but if his heart be inclined upon right judgement to advance the
+<pb n="12" facs="tcp:5352:10"/>Goſpell, to maintaine his family, to uſe his Ta<g ref="char:EOLhyphen"/>lents fruitfully, or the like good end, this incli<g ref="char:EOLhyphen"/>nation is from God. As the beames of the Moone darting into the Sea leades it to and fro, ſo doth a ſecret inclination darted by God into our hearts leade and bowe (as a byas) our whole courſe.</p>
+            <p>Secondly, when God gives other men hearts to call us, as the men of <hi>Macedon</hi> did <hi>Paul, Come to us into Macedonia, and helpe us.</hi> When wee are invited by others who have a good calling to re<g ref="char:EOLhyphen"/>ſide there, we may goe with them, unleſſe we be detained by waightier occaſions. One member hath intereſt in another, to call to it for helpe, when it is not diverted by greater employment.</p>
+            <p>Thirdly, there is another providence of God concurring in both theſe, that is, when a mans calling and perſon is free, and not tyed by pa<g ref="char:EOLhyphen"/>rents, or Magiſtrates, or other people that have intereſt in him. Or when abroad hee may doe himſelfe and others more good than he can doe at home. Here is then an eye of God that opens a doore there, and ſets him looſe here, inclines his heart that way, and outlookes all difficulties. When God makes roome for us, no binding here, and an open way there, in ſuch a caſe God tells them, he will appoint a place for them.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> this may teach us in every place where God appoints us to ſit downe, to acknow<g ref="char:EOLhyphen"/>ledge him as our Landlord. The earth is the Lords, and the fulneſſe thereof; his are our Coun<g ref="char:EOLhyphen"/>tries, our Townes, our houſes; and therefore let us acknowledge him in them all. The Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="13" facs="tcp:5352:10"/>makes this uſe of it amongſt the <hi>Athenians, Acts</hi> 17.26, 27. <hi>He hath appointed the times, and places of our habitation, that we might ſeeke, and grope after the Lord.</hi> There is a threefold uſe that we are to make of it, as it appeareth there; Let us ſeek af<g ref="char:EOLhyphen"/>ter the Lord, why? Becauſe if thou commeſt into an houſe, thou wilt aske for the owner of it: And ſo if thou commeſt into a forreigne land, and there findeſt an houſe and land provided for thee, wilt thou not enquire, where is the Land<g ref="char:EOLhyphen"/>lord? where is that God that gave mee this houſe and land? He is miſſing, and therefore ſeek after him.</p>
+            <p>Secondly, thou muſt feele after him, grope after him by ſuch ſenſible things, ſtrive to at<g ref="char:EOLhyphen"/>taine the favour of your Landlord, and labour to be obedient to him that hath given you ſuch a place.</p>
+            <p>Thirdly, you muſt labour to finde him in his Ordinances, in prayer and in Chriſtian commu<g ref="char:EOLhyphen"/>nion. Theſe things I owe him as my Landlord, and by theſe I finde and enjoy him. This uſe the very Pagans were to make of their ſeverall Plan<g ref="char:EOLhyphen"/>tations: And if you knew him before, ſeeke him yet more, and feele after him till you ſinde him in his Ordinances, and in your conſciences.</p>
+            <p>Thirdly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> when you have found God making way and roome for you, and carrying you by his providence unto any place, learne to walke thankfully before him, defraud him not of his rent, but offer your ſelves unto his ſervice: Serve that God, and teach your children to ſerve him,
+<pb n="14" facs="tcp:5352:11"/>that hath appointed you and them the place of your habitation.</p>
+            <p n="2">Obſervation. <hi>A people of Gods Plantation ſhall enjoy their owne place with ſafetie and peace.</hi>
+            </p>
+            <p>This is manifeſt in the Text: I will plant them; and what followes from thence? They ſhall dwell in their owne place: But how? Peaceably, they ſhall not be moved any more. Then they ſhall dwell ſafely, then they ſhall live in peace. The like promiſe you reade of in <hi>Pſal.</hi> 89.21, 22. <hi>The enemie ſhall not exact upon them any more.</hi> And in <hi>Pſal.</hi> 92.13. <hi>Thoſe that be planted in the houſe of the Lord, ſhall flouriſh in the Courts of our God. Gods plantation is a floriſhing plantation, Amos</hi> 9.15.</p>
+            <p>What is it for God to plant a people? <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label>
+            </p>
+            <p>It is a Metaphor taken from young Impes; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I will plant them, that is, I will make them to take roote there; and that is, where they and their ſoyle agree well together, when they are well and ſufficiently provided for, as a plant ſuckes nouriſhment from the ſoyle that fitteth it.</p>
+            <p>Secondly, When hee cauſeth them to grow as plants doe, in <hi>Pſal.</hi> 80.8, 9, 10, 11. When a man growes like a tree in tallneſſe and ſtrength, to more firmeneſſe and eminency, then hee may be ſaid to be planted.</p>
+            <p>Thirdly, When God cauſeth them to <hi>fructifie, Pſal.</hi> 1.4.</p>
+            <p>Fourthly, When he eſtabliſheth them there, then he plants, and rootes not up.</p>
+            <p>But here is ſomething more eſpeciall in this
+<pb n="15" facs="tcp:5352:11"/>planting; for they were planted before in this land, and yet he promiſeth here againe, that hee will plant them in their owne land: which doth imply, firſt, That what ever former good eſtate they had already, he would proſper it, and in<g ref="char:EOLhyphen"/>creaſe it.</p>
+            <p>Secondly, God is ſaid to plant a people more eſpecially, when they become <hi>Trees of righteouſ<g ref="char:EOLhyphen"/>neſſe, Iſay</hi> 61.3. That they may be called trees of righteouſneſſe, the planting of the Lord. So that there is implyed not onely a continuance of their former good eſtate, but that hee would make them a good people, a choice generation: which he did, firſt, by planting the Ordinances of God amongſt them in a more glorious manner, as he did in <hi>Salomons</hi> time.</p>
+            <p n="2">2. He would give his people <hi>a naile,</hi> and <hi>a place in his Tabernacle, Iſay</hi> 56.5. And that is to give us part in Chriſt: for ſo the Temple typified. So then hee plants us when hee gives us roote in Chriſt.</p>
+            <p>Thirdly, When he giveth us to <hi>grow up in him as Calves in the ſtall: Mal.</hi> 4.2, 3.</p>
+            <p>Fourthly, &amp; to <hi>bring forth much fruit, Ioh.</hi> 15.1.2</p>
+            <p>Fifthly, and to continue and abide in the ſtate of grace. This is to plant us in his holy Sanctua<g ref="char:EOLhyphen"/>ry, he not rooting us up.</p>
+            <p>This is taken from the kinde acceptance of <hi>Davids</hi> purpoſe to build God an houſe, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>
+               </label> becauſe he ſaw it was done in the honeſty of his heart, therefore he promiſeth to give his people a place wherein they ſhould abide for ever as in a houſe of reſt.</p>
+            <pb n="16" facs="tcp:5352:12"/>
+            <p>Secondly, it is taken from the office God takes upon him, when he is our planter, hee becomes our husbandman; and <hi>if hee plant us, who ſhall plucke us up? Iſay</hi> 27.1, 2. <hi>Iob</hi> 34.29. When he giveth quiet, who can make trouble? If God be the Gardiner, who ſhall plucke up what hee ſets downe? Every plantation that he hath not plan<g ref="char:EOLhyphen"/>ted ſhall be plucked up, and what he hath planted ſhall ſurely be eſtabliſhed.</p>
+            <p>Thirdly, from the nature of the bleſſing hee conferres upon us: When he promiſeth to plant a people, their dayes ſhall be as the dayes of a Tree, <hi>Iſay</hi> 65.22. As the Oake is ſaid to be an hundred yeares in growing, and an hundred yeares in full ſtrength, and an hundred yeares in decaying.</p>
+            <p>But it may be demanded, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> how was this pro<g ref="char:EOLhyphen"/>miſe fulfilled by the people, ſeeing after this time they met with many perſecutions, at home, and abroad, many ſonnes of wickedneſſe afflicted them; <hi>Ieroboam</hi> was a ſonne of wickedneſſe, and ſo was <hi>Ahab,</hi> and <hi>Ahaz,</hi> and divers others.</p>
+            <p>Becauſe after <hi>Davids</hi> time they had more ſet<g ref="char:EOLhyphen"/>ledneſſe than before. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+            </p>
+            <p>Secondly, to the godly theſe promiſes were fulfilled in Chriſt.</p>
+            <p>Thirdly, though this promiſe was made that others ſhould not wrong them, yet it followes not but that they might wrong themſelves by treſpaſſing againſt God, and ſo expoſe them<g ref="char:EOLhyphen"/>ſelves to affliction. Whilſt they continued Gods plantation, they were a noble Vine, a right
+<pb n="17" facs="tcp:5352:12"/>ſeede, but if <hi>Iſrael</hi> will deſtroy themſelves, the fault is in themſelves. And yet even in their cap<g ref="char:EOLhyphen"/>tivity the good amongſt them God graciouſly provided for: The <hi>Basket of good ſigges</hi> God ſent into the land of <hi>Chaldea</hi> for their good: <hi>Ier.</hi> 24.5. But if you rebell againſt God, the ſame God that planted you will alſo roote you out againe, for all the evill which you ſhall doe againſt your ſelves: <hi>Ier.</hi> 11.17. When the Iſraelites liked not the ſoile, grew weary of the Ordinances, and for<g ref="char:EOLhyphen"/>ſooke the worſhip of God, and ſaid, <hi>What part have we in David?</hi> after this they never got ſo good a King, nor any ſettled reſt in the good land wherein God had planted them. As they waxed weary of God, ſo hee waxed wearie of them, and caſt them out of his ſight.</p>
+            <p>To exhort all that are planted at home, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> or in<g ref="char:EOLhyphen"/>tend to plant abroad, to looke well to your plan<g ref="char:EOLhyphen"/>tation, as you deſire that the ſonnes of wicked<g ref="char:EOLhyphen"/>neſſe may not afflict you at home, nor enemies a<g ref="char:EOLhyphen"/>broad, looke that you be right planted, and then you neede not to feare, you are ſafe enough: God hath ſpoken it, I will plant them, and they ſhall not be moved, neither ſhall the ſonnes of wicked<g ref="char:EOLhyphen"/>neſſe afflict them any more.</p>
+            <p>What courſe would you have us take? <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label>
+            </p>
+            <p>Have ſpeciall care that you ever have the Or<g ref="char:EOLhyphen"/>dinances planted amongſt you, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> or elſe never looke for ſecurity. As ſoone as Gods Ordinan<g ref="char:EOLhyphen"/>ces ceaſe, your ſecurity ceaſeth likewiſe; but if God plant his Ordinances among you, feare not, he will maintaine them. <hi>Iſay</hi> 4.5.6: <hi>Vpon all their
+<pb n="18" facs="tcp:5352:13"/>glory there ſhall be a defence;</hi> that is, upon all Gods Ordinances: for ſo was the Arke called <hi>the Glory of Iſrael,</hi> 1 <hi>Sam.</hi> 4.22.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> have a care to be implanted into the Ordinances, that the word may be ingrafted into you, and you into it: If you take rooting in the Ordinances, grow up thereby, bring forth much fruite, continue and abide therein, then you are a vineyard of red wine, and the Lord will keepe you, <hi>Iſay</hi> 27.2.3. that no ſonnes of violence ſhall deſtroy you. Looke into all the ſtories whether divine or humane, and you ſhall never finde that God ever rooted out a people that had the Ordinances planted amongſt them, and themſelves planted into the Ordinances: ne<g ref="char:EOLhyphen"/>ver did God ſuffer ſuch plants to be plucked up; on all their glory ſhall be a defence.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> be not unmindfull of our <hi>Ieruſalem</hi> at home, whether you leave us, or ſtay at home with us. <hi>Oh pray for the peace of Ieruſalem, they ſhall proſper that love her, Pſal.</hi> 122.6. <hi>They ſhall all be confounded and turned backe that hate Sion, Pſal.</hi> 129.5. As God continueth his preſence with us (bleſſed be his name) ſo be ye preſent in ſpirit with us, though abſent in body: Forget not the wombe that bare you, and the breaſts that gave you ſucke. Even ducklings hatched under an henne, though they take the water, yet will ſtill have recourſe to the wing that hatched them: how much more ſhould chickens of the ſame fea<g ref="char:EOLhyphen"/>ther, and yolke? In the amity and unity of bre<g ref="char:EOLhyphen"/>thren, the Lord hath not onely promiſed, but
+<pb n="19" facs="tcp:5352:13"/>commanded a bleſſing, even life for evermore: <hi>Pſal.</hi> 133.1.2.</p>
+            <p>Fourthly, goe forth, every man that goeth, <milestone type="tcpmilestone" unit="unspecified" n="4"/> with a publicke ſpirit, looking not on your owne things onely, but alſo on the things of others: <hi>Phil.</hi> 2.4. This care of univerſall helpfulneſſe was the proſperity of the firſt Plantation of the Pri<g ref="char:EOLhyphen"/>mitive Church: <hi>Acts</hi> 4.32.</p>
+            <p>Fifthly, <milestone type="tcpmilestone" unit="unspecified" n="5"/> have a tender care that you looke well to the plants that ſpring from you, that is, to your children, that they doe not degenerate as the Iſraelites did; after which they were vexed with afflictions on every hand. How came this to paſſe? <hi>Ier.</hi> 2.21. <hi>I planted them a noble Vine; holy, a right ſeede, how then art thou degenerate into a ſtrange Vine before mee?</hi> Your Anceſtours were of a noble divine ſpirit, but if they ſuffer their children to degenerate, to take looſe courſes, then God will ſurely plucke you up: Otherwiſe if men have a care to propagate the Ordinances and Religion to their children after them, God will plant them, and not roote them up. For want of this, the ſeede of the repenting <hi>Ninivites</hi> was rooted out.</p>
+            <p>Sixthly, and laſtly, <milestone type="tcpmilestone" unit="unspecified" n="6"/> offend not the poore Na<g ref="char:EOLhyphen"/>tives, but as you partake in their land, ſo make them partakers of your precious faith: as you reape their temporalls, ſo feede them with your ſpiritualls: winne them to the love of Chriſt, for whom Chriſt died. They never yet refuſed the Goſpell, and therefore more hope they will now receive it. Who knoweth whether God have
+<pb n="20" facs="tcp:5352:14"/>reared this whole Plantation for ſuch an end?</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> for conſolation to them that are planted by God in any place, that finde rooting and eſtabliſhing from God, this is a cauſe of much encouragement unto you, that what hee hath planted he will maintaine, every plantation his right hand hath not planted ſhalbe rooted up, but his owne plantation ſhall proſper, &amp; flouriſh. When he promiſeth peace and ſafety, what ene<g ref="char:EOLhyphen"/>mie ſhall be able to make the promiſe of God of none effect? Neglect not walls, and bulwarkes, and fortifications for your owne defence; but ever let the Name of the Lord be your ſtrong Tower; and the word of his Promiſe the Rocke of your Refuge. His word that made heaven and earth will not faile, till hea<g ref="char:EOLhyphen"/>ven and earth be no more. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:5352:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
